@@ -1,0 +1,4 @@
+<!--pages/wxml/index.wxml-->
+<text>pages/wxml/index.wxml</text>
+<text>当前时间：{{time}}</text>
+<!--​保存后工具刷新，模拟器并没有显示出当前的时间，这是因为我们并没有给time 设置任何初始值-->
